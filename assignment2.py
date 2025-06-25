@@ -78,3 +78,15 @@ while True:
 
     else:
         print("Invalid choice! Please enter a number between 1 and 4.")
+
+
+#------------------------------------------------------------------------------
+str1 = input("Enter first string: ")
+str2 = input("Enter second string: ")
+result = str1 + str2
+print("Combined string is:", result)
+print("Uppercase     :", result.upper())
+print("Lowercase     :", result.lower())
+print("Title case    :", result.title())
+print("Length        :", len(result))
+print("Reversed      :", result[::-1])

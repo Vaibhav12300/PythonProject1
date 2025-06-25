@@ -24,6 +24,36 @@ print("Length        :", len(res))
 print("Reversed      :", res[::-1])
 
 
+#-------------------------------------------------------------
+print("Hello, World!")
+print("Welcome", "to", "Python")
+print("hello python",'welcome',6,sep=";",end="---")
+print("hello")
+print("hello")
+name = "Vaibhav"
+print("Hello", name)
+
+#--------------------------------------------------------------
+num1 = float(input("Enter first number: "))
+num2 = float(input("Enter second number: "))
+add = num1 + num2
+sub = num1 - num2
+mul = num1 * num2
+if num2 != 0:
+    div = num1 / num2
+    mod = num1 % num2
+else:
+    div = "Cannot divide by zero"
+    mod = "Cannot perform modulus with zero"
+print("\n--- Calculator Results ---")
+print(f"Addition       : {add}")
+print(f"Subtraction    : {sub}")
+print(f"Multiplication : {mul}")
+print(f"Division       : {div}")
+print(f"Modulus        : {mod}")
+
+
+
 
 
 
