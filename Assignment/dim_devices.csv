@@ -1,0 +1,16 @@
+device_name,device_type,manufacturer,model_number,device_id,firmware_version,registration_date
+TempSensor-01,Temperature Sensor,Bosch,TS-100,SN001,v1.0.3,2025-01-01
+MotionDetector-01,Motion Sensor,Honeywell,MD-200,SN002,v2.1.0,2025-01-08
+Cam-Entrance-01,Camera,Hikvision,CAM-E100,SN003,v3.0.5,2025-01-15
+SmokeDetector-01,Smoke Sensor,Nest,SD-500,SN004,v1.2.1,2025-01-22
+HumiditySensor-01,Humidity Sensor,Bosch,HS-75,SN005,v1.0.0,2025-01-29
+DoorLock-01,Smart Lock,August,DL-300,SN006,v4.1.2,2025-02-05
+Cam-Backyard-01,Camera,Hikvision,CAM-B200,SN007,v3.1.2,2025-02-12
+WaterLeak-01,Leak Sensor,Samsung,WL-210,SN008,v1.0.1,2025-02-19
+LightSensor-01,Light Sensor,Philips,LS-100,SN009,v2.0.0,2025-02-26
+TempSensor-02,Temperature Sensor,Bosch,TS-100,SN010,v1.0.3,2025-03-05
+MotionDetector-02,Motion Sensor,Honeywell,MD-200,SN011,v2.1.0,2025-03-12
+SmokeDetector-02,Smoke Sensor,Nest,SD-500,SN012,v1.2.1,2025-03-19
+HumiditySensor-02,Humidity Sensor,Bosch,HS-75,SN013,v1.0.0,2025-03-26
+DoorLock-02,Smart Lock,August,DL-300,SN014,v4.1.2,2025-04-02
+Cam-Exit-01,Camera,Hikvision,CAM-E200,SN015,v3.1.2,2025-04-09
